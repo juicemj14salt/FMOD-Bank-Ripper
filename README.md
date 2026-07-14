@@ -32,6 +32,9 @@ Includes both a **command-line interface (CLI)** for scripting/automation and a 
 ### CLI
 `FmodBankRipper.CLI -i "C:\Game\Audio" -o "C:\Output" -r`
 
-in the cmd, type --help for more info because I dont wanna say anything
+in the cmd, type --help for more info because I dont wanna say anything, oh and it can only read .bank and .fsb files that specfically use version 5 of FMOD, incase FMOD Bank Tools somehow stops working for you, use this one, It's not the best but it gets the job done of exporting FMOD file contents to .wav or .ogg depending on what was in the file
+
+### Credits
+All libraries go to their rightful owners, including @SamboyCoding for the Fmod5Sharp library,
 
 

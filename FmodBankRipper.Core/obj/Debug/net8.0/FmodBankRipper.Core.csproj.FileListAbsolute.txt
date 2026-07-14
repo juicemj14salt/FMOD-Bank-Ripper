@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\FmodBankRipper\FmodBankRipper.Core\bin\Debug\net8.0\FmodBankRipper.Core.deps.json
+C:\Users\User\Desktop\FmodBankRipper\FmodBankRipper.Core\bin\Debug\net8.0\FmodBankRipper.Core.dll
+C:\Users\User\Desktop\FmodBankRipper\FmodBankRipper.Core\bin\Debug\net8.0\FmodBankRipper.Core.pdb
+C:\Users\User\Desktop\FmodBankRipper\FmodBankRipper.Core\obj\Debug\net8.0\FmodBankRipper.Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FmodBankRipper\FmodBankRipper.Core\obj\Debug\net8.0\FmodBankRipper.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FmodBankRipper\FmodBankRipper.Core\obj\Debug\net8.0\FmodBankRipper.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FmodBankRipper\FmodBankRipper.Core\obj\Debug\net8.0\FmodBankRipper.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\FmodBankRipper\FmodBankRipper.Core\obj\Debug\net8.0\FmodBankRipper.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FmodBankRipper\FmodBankRipper.Core\obj\Debug\net8.0\FmodBankRipper.Core.dll
+C:\Users\User\Desktop\FmodBankRipper\FmodBankRipper.Core\obj\Debug\net8.0\refint\FmodBankRipper.Core.dll
+C:\Users\User\Desktop\FmodBankRipper\FmodBankRipper.Core\obj\Debug\net8.0\FmodBankRipper.Core.pdb
+C:\Users\User\Desktop\FmodBankRipper\FmodBankRipper.Core\obj\Debug\net8.0\ref\FmodBankRipper.Core.dll

@@ -2,7 +2,7 @@
 
 [![.NET](https://img.shields.io/badge/.NET-8.0-blue.svg)](https://dotnet.microsoft.com/download/dotnet/8.0)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/juicemj14salt/FmodBankRipper)
+[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)]([https://github.com/juicemj14salt/FMOD-Bank-Ripper])
 
 
 A .NET 8.0 application that extracts audio files from **FMOD Studio Bank files** (`.bank`) and **FMOD Sound Bank files** (`.fsb`) into standard formats like `.wav` and `.ogg`.
